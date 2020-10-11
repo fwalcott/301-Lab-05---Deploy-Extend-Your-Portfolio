@@ -14,13 +14,12 @@ User Acceptance Tests
 Time Estimate
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-Number and name of feature: ________________________________
+Number and name of feature: ______Felicia's Walcott Portfoilo__________________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: _3hr____
 
-Start time: _____
+Start time: _5:00____
 
-Finish time: _____
+Finish time: _9:00____
 
-Actual time needed to complete: _____
-
+Actual time needed to complete: __4 hrs___Still needs some work
